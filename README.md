@@ -2,7 +2,7 @@
 프로젝트 관련된 사항을 기록합니다.
 모든 프로젝트 코드는 비공개 프로젝트라서 항목만 기록 합니다.
 
-<h3> woogi project </h3>
+<h3> woogi IT project </h3>
 
 <details>
 <summary><b>2024년</b></summary>
