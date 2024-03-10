@@ -14,6 +14,5 @@
  ####  ✔ 반도체 사업부 Work Innovation Project
  - aws 서버리스 기반의 모바일 nMES 구축 프로젝트
  - 사용기술 : aws, vue.js, node.js, JAVA, Tableau, oracle
- - 결과물 : A의 키워드와 B의 키워드를 각각 정제한 후, 각 키워드를 토대로 매핑(일치 또는 포함)한다. 매핑 결과 output을 csv 형식으로 출력하고, 이외의 필요한 정보는 C, D에서 추출한다.<br>
- 
+  
 <br></details>
